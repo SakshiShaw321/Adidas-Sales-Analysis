@@ -103,9 +103,5 @@ Increase profit margins by focusing on top categories and cities.
 
 Strengthen data-driven decision-making culture across teams.
 
-Kaliraj-R Kaliraj R
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2026 G
+
+
